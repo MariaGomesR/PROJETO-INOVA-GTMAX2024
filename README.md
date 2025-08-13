@@ -11,7 +11,7 @@ Desenvolver e colocar em prática o aprendizado sobre HTML e CSS.
 ---
 
 #### Demonstração 👇
-![print tela inicial](/assets/printss/tela.png)
+![print tela](/assets/printss/tela.png)
 ![print impressoras](/assets/printss/impressoras.png)
 ![print acessorios](/assets/printss/acessorios.png)
 ![print rodape](/assets/printss/rodape.png)

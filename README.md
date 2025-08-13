@@ -21,4 +21,9 @@ Desenvolver e colocar em prática o aprendizado sobre HTML e CSS.
 #### 🔗Link de acesso
 >[Projeto GTMAX-](https://projeto-inovar-gtmax-2024.onrender.com/)
 
+##### 🤝 Participações 
+>[Lohany Macedo](https://github.com/Lohanyy17)
+>[Mirele Victória](https://github.com/Mvictoria218)
+>[Isabelly Dias](https://github.com/IDBaptista)
+
 

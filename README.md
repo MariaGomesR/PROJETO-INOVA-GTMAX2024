@@ -11,10 +11,10 @@ Desenvolver e colocar em prática o aprendizado sobre HTML e CSS.
 ---
 
 #### Demonstração 👇
-![print inicio](/printss/telainicial.png)
-![print impressoras](/printss/impressoras.png)
-![print acessorios](/printss/acessorrios.png)
-![print rodape](/printss/rodape.png)
+![print inicio](/assets/printss/telainicial.png)
+![print impressoras](/assets/printss/impressoras.png)
+![print acessorios](/asstes/printss/acessorrios.png)
+![print rodape](/assets/printss/rodape.png)
 
 
 ---
